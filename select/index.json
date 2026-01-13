@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "OK Overture",
+  "base_artist": "AJR",
+  "createdAt": "2026-01-13T20:30:15.424606Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "OK Overture",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/01_OK_Overture_AJR.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "OK Overture",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/02_OK_Overture_AJR.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "OK Overture [Explicit]",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/03_OK_Overture_[Explicit]_AJR.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "OK Overture Explicit",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/04_OK_Overture_Explicit_AJR.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OK Overture",
+      "artist": "AJR",
+      "has_synced": false,
+      "path": "select/pl_01_OK_Overture_AJR.txt"
+    }
+  ]
+}
