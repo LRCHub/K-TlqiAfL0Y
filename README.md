@@ -1,0 +1,69 @@
+# AJR – OK Overture
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.30] These are our drums
+[00:04.10] This is our melody
+[00:13.10] 
+[00:09.26] Now listen closely as our drums become our melody
+[00:33.76] 
+[00:30.83] And here's our song
+[00:40.33] 
+[00:55.96] So let me play my violin for you (bang, bang, bang)
+[01:21.46] 
+[01:09.52] So let me play my violin for you
+[01:25.52] 
+[01:20.36] The truth is that I'm screwed
+[01:23.55] Still Joe, do you think I'm cool?
+[01:40.05] 
+[01:38.78] I got friends in a lot of weird places (ooh-ooh, ooh-ooh)
+[01:44.17] Wonder if they gonna call depending what my face is
+[01:49.16] I got friends in a lot of weird places (ooh-ooh, ooh-ooh)
+[01:54.57] Wonder if they gonna call depending what my face is
+[02:20.07] 
+[01:59.16] Yeah, yeah, yeah, yeah
+[02:10.16] 
+[02:04.52] Yeah, yeah, yeah, yeah
+[02:15.52] 
+[02:10.71] Humpty Dumpty, when Humpty Dumpty
+[02:13.05] When Humpty Dumpty went down
+[02:15.94] He said, "Screw it, I'ma smile right through it
+[02:18.18] And I'll scream when no one's around"
+[02:36.68] 
+[02:21.25] Humpty Dumpty, when Humpty Dumpty
+[02:23.79] When Humpty Dumpty went down
+[02:26.63] He said, "Screw it, I'ma smile right through it
+[02:28.88] And I'll scream when no one, when no one, when no one's around"
+[03:00.38] 
+[03:00.83] And I'll scream when no one, when no one, when no one's around
+[03:31.83] 
+[03:14.78] One day, maybe someday
+[03:16.75] I'll be so out of touch
+[03:18.73] I'll become a trumpet or a drum set
+[03:21.67] In a sad orchestra
+[03:24.37] One day, maybe someday
+[03:26.45] In a world speeding up
+[03:28.86] It's getting hard, so very hard
+[03:31.06] To keep up
+[03:36.06] 
+[03:34.35] One day, maybe someday
+[03:36.16] I'll be so out of touch
+[03:38.32] I'll become a trumpet or a drum set
+[03:41.09] In a sad orchestra
+[03:43.73] One day I won't know what to write
+[03:47.85] And I can't be 18 my whole life
+[03:51.94] But I'm too fucking young to feel so fuckin' old
+[03:56.48] But I'll try, and I'll try, and I'll try
+[04:16.48] 
+[04:03.33] But I'm not dead yet, so I guess I'll be alright
+[04:27.33] 
+[04:08.52] Bang, bang, bang
+[04:09.64] But I'm way less sad
+[04:12.30] Adventure is out there
+[04:14.18] But you gotta be some
+[04:15.87] Come on, guy
+[04:16.62] Bang, bang, bang
+[04:18.43] But it's all I have
+[04:20.32] Oh, I'm not dead yet, so I guess I'll be alright
+```
